@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisBoostAdPreviewScreenQuery_instagramRelayOperation",[],(function(a,b,c,d,e,f){e.exports="6299577080061916"}),null);
+__d("PolarisExploreTagsRoot.entrypoint",["JSResourceForInteraction"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){return{queries:{}}},root:c("JSResourceForInteraction")("PolarisExploreTagsRoot.react").__setRef("PolarisExploreTagsRoot.entrypoint")};g["default"]=a}),98);
